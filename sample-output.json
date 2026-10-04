@@ -1,0 +1,27 @@
+[
+  {
+    "type": "profile",
+    "username": "nba",
+    "url": "https://www.snapchat.com/@nba",
+    "displayName": "NBA",
+    "isPublicProfile": true,
+    "bio": "30 teams, 1 goal.",
+    "subscribers": 3618500,
+    "category": "business-group",
+    "spotlightCount": 29,
+    "scrapedAt": "2026-08-29T12:01:10.512Z"
+  },
+  {
+    "type": "video",
+    "source": "spotlight",
+    "username": "nba",
+    "url": "https://www.snapchat.com/spotlight/example-video-id",
+    "title": "Example basketball highlight",
+    "views": 14251,
+    "shares": 0,
+    "commentCount": 4,
+    "postedAt": "2026-08-28T20:06:48.372Z",
+    "transcript": null,
+    "scrapedAt": "2026-08-29T12:01:11.204Z"
+  }
+]
